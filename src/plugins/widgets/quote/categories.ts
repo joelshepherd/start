@@ -32,6 +32,10 @@ export default [
     name: 'Students',
   },
   {
+    key: 'bible',
+    name: 'Bible Verses',
+  },
+  {
     key: 'developerexcuses',
     name: 'Developer Excuses',
   },
