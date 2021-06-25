@@ -11,6 +11,7 @@ import search from './search';
 import time from './time';
 import todo from './todo';
 import weather from './weather';
+import palette from './palette';
 
 export const widgetConfigs = [
   css,
@@ -25,6 +26,7 @@ export const widgetConfigs = [
   time,
   todo,
   weather,
+  palette,
 ];
 
 if (process.env.BUILD_TARGET === 'web') {
